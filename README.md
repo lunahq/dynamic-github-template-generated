@@ -1,1 +1,1 @@
-# Dynamic Github Template
+# Dynamic Github Template Generated

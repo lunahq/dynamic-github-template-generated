@@ -13,4 +13,4 @@ jobs:
 
       - name: Echo project name
         run: |
-          echo [% cookiecutter.project_name %]
+          echo dynamic-github-template-generated
